@@ -1,6 +1,6 @@
 package com.codewithmosh.store.orders;
 
-import com.codewithmosh.store.dtos.ErrorDto;
+import com.codewithmosh.store.common.ErrorDto;
 import io.swagger.v3.oas.annotations.tags.Tag;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
